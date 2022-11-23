@@ -50,7 +50,12 @@ The sam2bam is a high-throughput software tool framework that enables users to s
 
 run samt_var.sh
 
+BCFtools is a set of utilities that manipulate variant calls in the Variant Call Format (VCF) and its binary counterpart BCF. All commands work transparently with both VCFs and BCFs, both uncompressed and BGZF-compressed.
 
+An example of a variant calling file is attached in this respiratory.
+
+File name:
+variant.vcf
 
 
 
