@@ -32,5 +32,27 @@ run cutad_for.sh
 
 The tool used for this purpose is Cutadapt which is a tool for quality control of high-throughput sequencing reads. The functions include an adapter, primer, and poly-A tail removal.
 
+#3. Mapping
+
+run mapping.sh
+
+The tool used for this purpose is called bwa (Burrows-Wheeler aligner).
+
+BWA is a software package for mapping low-divergent sequences against a large reference genome, such as the human genome. It consists of three algorithms: BWA-backtrack, BWA-SW and BWA-MEM. The first algorithm is designed for Illumina sequence reads up to 100bp, while the rest two for longer sequences ranged from 70bp to 1Mbp.
+
+#4. Post-processing of MR
+
+run sam2bam.sh
+
+The sam2bam is a high-throughput software tool framework that enables users to significantly speed up pre-processing for next-generation sequencing data, especially on single-node multi-core large-memory systems. The sam2bam provides file format conversion from SAM to BAM, as a basic feature. Additional features such as analyzing, filtering, and converting input data are provided by using plug-in tools, e.g., duplicate marking, which can be attached to sam2bam at runtime.
+
+#5. Variant calling
+
+run samt_var.sh
+
+
+
+
+
 
 
