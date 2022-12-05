@@ -1,0 +1,302 @@
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1942 sequences (203530 bp)...
+[M::mem_process_seqs] Processed 1942 reads in 0.823 CPU sec, 0.652 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC10.fq.fastq
+[main] Real time: 1.636 sec; CPU: 1.191 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1735 sequences (180403 bp)...
+[M::mem_process_seqs] Processed 1735 reads in 0.833 CPU sec, 0.657 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC09.fq.fastq
+[main] Real time: 1.639 sec; CPU: 1.216 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2140 sequences (226065 bp)...
+[M::mem_process_seqs] Processed 2140 reads in 0.417 CPU sec, 0.211 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC11.fq.fastq
+[main] Real time: 0.503 sec; CPU: 0.652 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 3147 sequences (330664 bp)...
+[M::mem_process_seqs] Processed 3147 reads in 0.660 CPU sec, 0.332 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC12.fq.fastq
+[main] Real time: 0.628 sec; CPU: 0.931 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1775 sequences (186744 bp)...
+[M::mem_process_seqs] Processed 1775 reads in 0.395 CPU sec, 0.204 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC13.fq.fastq
+[main] Real time: 0.474 sec; CPU: 0.668 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2657 sequences (277975 bp)...
+[M::mem_process_seqs] Processed 2657 reads in 0.437 CPU sec, 0.224 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC14.fq.fastq
+[main] Real time: 0.489 sec; CPU: 0.695 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2077 sequences (217553 bp)...
+[M::mem_process_seqs] Processed 2077 reads in 0.362 CPU sec, 0.187 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC15.fq.fastq
+[main] Real time: 0.457 sec; CPU: 0.635 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1720 sequences (178846 bp)...
+[M::mem_process_seqs] Processed 1720 reads in 0.312 CPU sec, 0.157 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC16.fq.fastq
+[main] Real time: 0.450 sec; CPU: 0.589 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1545 sequences (164395 bp)...
+[M::mem_process_seqs] Processed 1545 reads in 0.303 CPU sec, 0.160 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC17.fq.fastq
+[main] Real time: 0.428 sec; CPU: 0.580 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1547 sequences (162850 bp)...
+[M::mem_process_seqs] Processed 1547 reads in 0.316 CPU sec, 0.161 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC18.fq.fastq
+[main] Real time: 0.442 sec; CPU: 0.581 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1882 sequences (199015 bp)...
+[M::mem_process_seqs] Processed 1882 reads in 0.359 CPU sec, 0.183 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC19.fq.fastq
+[main] Real time: 0.453 sec; CPU: 0.630 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2299 sequences (241200 bp)...
+[M::mem_process_seqs] Processed 2299 reads in 0.407 CPU sec, 0.204 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC20.fq.fastq
+[main] Real time: 0.484 sec; CPU: 0.680 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2475 sequences (263279 bp)...
+[M::mem_process_seqs] Processed 2475 reads in 0.503 CPU sec, 0.261 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC21.fq.fastq
+[main] Real time: 0.546 sec; CPU: 0.776 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 3164 sequences (335369 bp)...
+[M::mem_process_seqs] Processed 3164 reads in 0.742 CPU sec, 0.377 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC22.fq.fastq
+[main] Real time: 0.668 sec; CPU: 1.019 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1429 sequences (147812 bp)...
+[M::mem_process_seqs] Processed 1429 reads in 0.338 CPU sec, 0.172 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC23.fq.fastq
+[main] Real time: 0.429 sec; CPU: 0.593 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1765 sequences (183125 bp)...
+[M::mem_process_seqs] Processed 1765 reads in 0.351 CPU sec, 0.177 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC24.fq.fastq
+[main] Real time: 0.443 sec; CPU: 0.614 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2858 sequences (301554 bp)...
+[M::mem_process_seqs] Processed 2858 reads in 0.610 CPU sec, 0.308 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC25.fq.fastq
+[main] Real time: 0.575 sec; CPU: 0.875 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 3708 sequences (395410 bp)...
+[M::mem_process_seqs] Processed 3708 reads in 0.800 CPU sec, 0.409 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC26.fq.fastq
+[main] Real time: 0.668 sec; CPU: 1.057 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2829 sequences (298603 bp)...
+[M::mem_process_seqs] Processed 2829 reads in 0.546 CPU sec, 0.276 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC27.fq.fastq
+[main] Real time: 0.549 sec; CPU: 0.810 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2797 sequences (294276 bp)...
+[M::mem_process_seqs] Processed 2797 reads in 0.539 CPU sec, 0.272 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC28.fq.fastq
+[main] Real time: 0.532 sec; CPU: 0.798 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1364 sequences (143450 bp)...
+[M::mem_process_seqs] Processed 1364 reads in 0.292 CPU sec, 0.150 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC29.fq.fastq
+[main] Real time: 0.414 sec; CPU: 0.554 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2111 sequences (223985 bp)...
+[M::mem_process_seqs] Processed 2111 reads in 0.408 CPU sec, 0.213 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC30.fq.fastq
+[main] Real time: 0.494 sec; CPU: 0.687 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2337 sequences (249429 bp)...
+[M::mem_process_seqs] Processed 2337 reads in 0.429 CPU sec, 0.222 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC31.fq.fastq
+[main] Real time: 0.504 sec; CPU: 0.703 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2869 sequences (305394 bp)...
+[M::mem_process_seqs] Processed 2869 reads in 0.545 CPU sec, 0.276 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC32.fq.fastq
+[main] Real time: 0.559 sec; CPU: 0.827 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2709 sequences (282515 bp)...
+[M::mem_process_seqs] Processed 2709 reads in 0.621 CPU sec, 0.313 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC41.fq.fastq
+[main] Real time: 0.599 sec; CPU: 0.899 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 3211 sequences (345313 bp)...
+[M::mem_process_seqs] Processed 3211 reads in 0.695 CPU sec, 0.350 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC42.fq.fastq
+[main] Real time: 0.627 sec; CPU: 0.971 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2534 sequences (270695 bp)...
+[M::mem_process_seqs] Processed 2534 reads in 0.541 CPU sec, 0.273 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC43.fq.fastq
+[main] Real time: 0.552 sec; CPU: 0.811 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2463 sequences (262062 bp)...
+[M::mem_process_seqs] Processed 2463 reads in 0.515 CPU sec, 0.258 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC44.fq.fastq
+[main] Real time: 0.540 sec; CPU: 0.795 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2267 sequences (234970 bp)...
+[M::mem_process_seqs] Processed 2267 reads in 0.466 CPU sec, 0.237 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC45.fq.fastq
+[main] Real time: 0.542 sec; CPU: 0.736 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2113 sequences (222069 bp)...
+[M::mem_process_seqs] Processed 2113 reads in 0.454 CPU sec, 0.253 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC46.fq.fastq
+[main] Real time: 0.539 sec; CPU: 0.739 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2296 sequences (239447 bp)...
+[M::mem_process_seqs] Processed 2296 reads in 0.525 CPU sec, 0.300 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC47.fq.fastq
+[main] Real time: 0.617 sec; CPU: 0.808 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1839 sequences (194961 bp)...
+[M::mem_process_seqs] Processed 1839 reads in 0.391 CPU sec, 0.207 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC49.fq.fastq
+[main] Real time: 0.501 sec; CPU: 0.677 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2733 sequences (291980 bp)...
+[M::mem_process_seqs] Processed 2733 reads in 0.567 CPU sec, 0.300 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC48.fq.fastq
+[main] Real time: 0.585 sec; CPU: 0.846 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1047 sequences (109979 bp)...
+[M::mem_process_seqs] Processed 1047 reads in 0.202 CPU sec, 0.101 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC50.fq.fastq
+[main] Real time: 0.384 sec; CPU: 0.486 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2024 sequences (214521 bp)...
+[M::mem_process_seqs] Processed 2024 reads in 0.412 CPU sec, 0.208 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC51.fq.fastq
+[main] Real time: 0.507 sec; CPU: 0.685 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1400 sequences (148715 bp)...
+[M::mem_process_seqs] Processed 1400 reads in 0.269 CPU sec, 0.138 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC52.fq.fastq
+[main] Real time: 0.411 sec; CPU: 0.537 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2425 sequences (258133 bp)...
+[M::mem_process_seqs] Processed 2425 reads in 0.524 CPU sec, 0.267 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC53.fq.fastq
+[main] Real time: 0.547 sec; CPU: 0.790 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 4154 sequences (435105 bp)...
+[M::mem_process_seqs] Processed 4154 reads in 0.908 CPU sec, 0.464 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC54.fq.fastq
+[main] Real time: 0.728 sec; CPU: 1.164 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2082 sequences (218214 bp)...
+[M::mem_process_seqs] Processed 2082 reads in 0.496 CPU sec, 0.255 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC55.fq.fastq
+[main] Real time: 0.535 sec; CPU: 0.759 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2023 sequences (210411 bp)...
+[M::mem_process_seqs] Processed 2023 reads in 0.423 CPU sec, 0.221 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC56.fq.fastq
+[main] Real time: 0.503 sec; CPU: 0.697 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2270 sequences (242052 bp)...
+[M::mem_process_seqs] Processed 2270 reads in 0.525 CPU sec, 0.275 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC57.fq.fastq
+[main] Real time: 0.566 sec; CPU: 0.806 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1791 sequences (182075 bp)...
+[M::mem_process_seqs] Processed 1791 reads in 0.455 CPU sec, 0.236 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC58.fq.fastq
+[main] Real time: 0.518 sec; CPU: 0.733 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2302 sequences (239878 bp)...
+[M::mem_process_seqs] Processed 2302 reads in 0.451 CPU sec, 0.229 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC59.fq.fastq
+[main] Real time: 0.504 sec; CPU: 0.718 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1285 sequences (135648 bp)...
+[M::mem_process_seqs] Processed 1285 reads in 0.265 CPU sec, 0.133 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC60.fq.fastq
+[main] Real time: 0.420 sec; CPU: 0.551 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2281 sequences (242513 bp)...
+[M::mem_process_seqs] Processed 2281 reads in 0.434 CPU sec, 0.219 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC61.fq.fastq
+[main] Real time: 0.499 sec; CPU: 0.709 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 3170 sequences (332353 bp)...
+[M::mem_process_seqs] Processed 3170 reads in 0.621 CPU sec, 0.325 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC62.fq.fastq
+[main] Real time: 0.594 sec; CPU: 0.887 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 1432 sequences (151083 bp)...
+[M::mem_process_seqs] Processed 1432 reads in 0.280 CPU sec, 0.151 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC63.fq.fastq
+[main] Real time: 0.423 sec; CPU: 0.551 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 2305 sequences (240565 bp)...
+[M::mem_process_seqs] Processed 2305 reads in 0.437 CPU sec, 0.243 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1_BC64.fq.fastq
+[main] Real time: 0.525 sec; CPU: 0.716 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 172312 sequences (20000013 bp)...
+[M::process] read 77688 sequences (9011691 bp)...
+[M::mem_process_seqs] Processed 172312 reads in 37.665 CPU sec, 19.298 real sec
+[M::mem_process_seqs] Processed 77688 reads in 15.400 CPU sec, 7.675 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa FC20150701_1.fq.fastq
+[main] Real time: 28.080 sec; CPU: 53.503 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 141672 sequences (17248261 bp)...
+[M::mem_process_seqs] Processed 141672 reads in 29.699 CPU sec, 14.876 real sec
+[main] Version: 0.7.17-r1198-dirty
+[main] CMD: bwa mem -t 2 /Users/rashasalih/variant_calling/refgenome/Gmax_275_v2.0.fa unk.fastq
+[main] Real time: 15.297 sec; CPU: 30.062 sec
